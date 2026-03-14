@@ -1,0 +1,14 @@
+C:\Users\Josue Gotay\Desktop\C-Sharp journey\Csharp-hello-world\bin\Debug\net10.0\Csharp-hello-world.exe
+C:\Users\Josue Gotay\Desktop\C-Sharp journey\Csharp-hello-world\bin\Debug\net10.0\Csharp-hello-world.deps.json
+C:\Users\Josue Gotay\Desktop\C-Sharp journey\Csharp-hello-world\bin\Debug\net10.0\Csharp-hello-world.runtimeconfig.json
+C:\Users\Josue Gotay\Desktop\C-Sharp journey\Csharp-hello-world\bin\Debug\net10.0\Csharp-hello-world.dll
+C:\Users\Josue Gotay\Desktop\C-Sharp journey\Csharp-hello-world\bin\Debug\net10.0\Csharp-hello-world.pdb
+C:\Users\Josue Gotay\Desktop\C-Sharp journey\Csharp-hello-world\obj\Debug\net10.0\Csharp-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue Gotay\Desktop\C-Sharp journey\Csharp-hello-world\obj\Debug\net10.0\Csharp-hello-world.AssemblyInfoInputs.cache
+C:\Users\Josue Gotay\Desktop\C-Sharp journey\Csharp-hello-world\obj\Debug\net10.0\Csharp-hello-world.AssemblyInfo.cs
+C:\Users\Josue Gotay\Desktop\C-Sharp journey\Csharp-hello-world\obj\Debug\net10.0\Csharp-hello-world.csproj.CoreCompileInputs.cache
+C:\Users\Josue Gotay\Desktop\C-Sharp journey\Csharp-hello-world\obj\Debug\net10.0\Csharp-hello-world.dll
+C:\Users\Josue Gotay\Desktop\C-Sharp journey\Csharp-hello-world\obj\Debug\net10.0\refint\Csharp-hello-world.dll
+C:\Users\Josue Gotay\Desktop\C-Sharp journey\Csharp-hello-world\obj\Debug\net10.0\Csharp-hello-world.pdb
+C:\Users\Josue Gotay\Desktop\C-Sharp journey\Csharp-hello-world\obj\Debug\net10.0\Csharp-hello-world.genruntimeconfig.cache
+C:\Users\Josue Gotay\Desktop\C-Sharp journey\Csharp-hello-world\obj\Debug\net10.0\ref\Csharp-hello-world.dll
